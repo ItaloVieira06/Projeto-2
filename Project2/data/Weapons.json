@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Espada","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Machado","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Bengala","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Arco","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Adaga","note":"","params":[0,0,5,0,0,0,0,0],"price":250,"wtypeId":1},
+{"id":6,"animationId":23,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"Luva com Garras","note":"","params":[0,0,20,10,0,0,0,0],"price":300,"wtypeId":10},
+{"id":7,"animationId":70,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0},{"code":11,"dataId":3,"value":1},{"code":11,"dataId":4,"value":1},{"code":11,"dataId":5,"value":1},{"code":11,"dataId":6,"value":1},{"code":11,"dataId":7,"value":1},{"code":11,"dataId":8,"value":1},{"code":11,"dataId":9,"value":1},{"code":41,"dataId":1,"value":1},{"code":55,"dataId":1,"value":1}],"iconIndex":101,"name":"Cajado","note":"","params":[0,40,20,0,20,0,0,0],"price":300,"wtypeId":6}
+]

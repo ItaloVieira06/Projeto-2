@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"atsin lutando","characterIndex":0,"characterName":"atsin","classId":1,"equips":[5,0,2,3,0],"faceIndex":0,"faceName":"atsin sério","traits":[],"initialLevel":30,"maxLevel":99,"name":"Atsin ","nickname":"Negociador Principiante","note":"","profile":""},
+{"id":2,"battlerName":"omega caindo pro pau","characterIndex":0,"characterName":"omega","classId":2,"equips":[0,7,0,6,5],"faceIndex":0,"faceName":"omega nrml","traits":[{"code":41,"dataId":2,"value":1},{"code":11,"dataId":1,"value":1}],"initialLevel":60,"maxLevel":99,"name":"Ômega","nickname":"Caçador de Recompensas","note":"","profile":""},
+{"id":3,"battlerName":"atsin jovem lutando","characterIndex":0,"characterName":"atsin jovem","classId":1,"equips":[5,0,0,3,0],"faceIndex":0,"faceName":"atsin jovem","traits":[],"initialLevel":15,"maxLevel":99,"name":"???","nickname":"???","note":"","profile":"???"},
+{"id":4,"battlerName":"leirssa lutanto","characterIndex":0,"characterName":"leirssa","classId":3,"equips":[7,0,0,0,5],"faceIndex":0,"faceName":"leirssa","traits":[],"initialLevel":25,"maxLevel":99,"name":"Leirssa","nickname":"???","note":"","profile":""}
+]

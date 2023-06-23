@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":230,"indent":0,"parameters":[900]},{"code":223,"indent":0,"parameters":[[68,-34,-34,0],360,true]},{"code":230,"indent":0,"parameters":[600]},{"code":122,"indent":0,"parameters":[6,6,1,0,1]},{"code":245,"indent":0,"parameters":[{"name":"Night","volume":50,"pitch":100,"pan":0}]},{"code":223,"indent":0,"parameters":[[-68,-68,0,68],360,true]},{"code":230,"indent":0,"parameters":[900]},{"code":246,"indent":0,"parameters":[1]},{"code":223,"indent":0,"parameters":[[68,-34,-34,0],360,true]},{"code":122,"indent":0,"parameters":[6,6,2,0,1]},{"code":230,"indent":0,"parameters":[600]},{"code":223,"indent":0,"parameters":[[0,0,0,0],360,true]},{"code":0,"indent":0,"parameters":[]}],"name":"Dia e noite","switchId":1,"trigger":2},
+{"id":2,"list":[{"code":230,"indent":0,"parameters":[420]},{"code":315,"indent":0,"parameters":[0,0,0,0,1,false]},{"code":0,"indent":0,"parameters":[]}],"name":"xp","switchId":2,"trigger":2},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"luzes","switchId":3,"trigger":2},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
